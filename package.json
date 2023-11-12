@@ -1,0 +1,12 @@
+{
+  "name": "40.1.express-biztime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "author": "3ichael 7ambert",
+  "license": "ISC"
+}
